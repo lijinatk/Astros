@@ -1,7 +1,39 @@
+.header{background-image: url(images/left-line.png),url(images/right-line.png);background-position:top left,bottom right;background-repeat: no-repeat;padding-top: 100px;}
+.bb-nav{padding-top: 40px;}
+.nav-link{font-family: "Dorsa", serif;font-size: 70px;color: #3c3c3c;padding: 25px 25px;position: sticky;z-index: 10;}
+.nav-item a:hover, .nav-item a:focus{color: #b29c69;}
+/*Welcom */
 .welcom{background-color: #f8f8f8;overflow: hidden;}
-.welcom h3{text-align: left;font-family: "Dorsa", serif;margin-top: 60px;font-size: 100px;margin-bottom: 30px;}
-.welcom h5{font-family: "PT Sans Narrow", serif;font-size: 18px;text-transform: uppercase;font-weight: 600;margin-bottom: 20px;}
-.welcom p{font-family: "PT Sans Narrow", serif;font-size: 18px;}
+.welcom h3, .london-text h3{text-align: left;font-family: "Dorsa", serif;margin-top: 60px;font-size: 100px;margin-bottom: 30px;text-transform: uppercase;padding-left: 40px;}
+.welcom h5, .london-text h5{font-family: "PT Sans Narrow", serif;font-size: 18px;text-transform: uppercase;font-weight: 600;margin-bottom: 20px;padding-left: 40px;}
+.welcom p, .london-text p{font-family: "PT Sans Narrow", serif;font-size: 18px;margin-bottom: 50px;padding-left: 40px;}
 .welcom .col-mg-8{padding-left: 60px;padding-right: 60px;}
+.welcom a, .london-text a{color: #3c3c3c;line-height: 26px;font-family: "PT Sans Narrow", serif;font-size: 18px;text-decoration: underline;text-decoration-style: double;text-underline-offset: 20px;padding-left: 50px;}
+.welcom a:hover, .welcom a:focus{color: #b29c69;}
 /* Blues */
 .blues{background-image: url(images/blues.jpg);background-repeat: no-repeat;background-size: cover;}
+.blues h1{text-align: right;font-family: "Dorsa", serif;color: #fff;font-size: 500px;text-transform: uppercase;padding-top: 80px;}
+.blues h5{text-align: right;color: #fff;font-size: 80px;font-family: "Dorsa", serif;text-transform: uppercase;margin-top: -126px;padding-right: 22px;}
+/* Listen */
+.listen{background-image:url(images/listen.jpg);background-repeat: no-repeat;padding-bottom: 100px;}
+.listen h3{font-family: "Dorsa", sans-serif;color: #fff;font-size: 150px;font-weight: normal;text-align: right;padding-top: 80px;}
+.mp3-box ul{font-family: "PT Sans Narrow", sans-serif;font-size: 18px;text-align:left;margin-bottom: 0;padding-top: 30px;}
+.mp3-box li{list-style-type: none;}
+.mp3-box a{color:#fff;text-decoration: none;line-height: 50px;}
+.mp3-box a:hover,.mp3-box a:focus{color:#b29c69;}
+/* Mic */
+.mic-box{background-color: #f8f8f8;position: relative;}
+.mic-image-text{position: absolute;bottom: 0px;}
+.mic-text{background-color: #000018;}
+.mic-text h4{font-family: "PT Sans Narrow", sans-serif;text-transform: uppercase;color: #fff;font-size: 36px;font-weight:normal;text-align: center;padding-bottom: 20px;margin-bottom: 0%;padding-top:20px ;}
+.mic-text span{color: #b29c69;font-size: 36px;font-weight: normal;}
+.sesera-text{font-family: "PT Sans Narrow", sans-serif;font-size: 23px;
+text-transform: uppercase;padding-right: 100px;padding-left: 80px;padding-top: 50px;}
+.sesera-text h3{color: #4d4b4b;line-height: 40px;padding-top: 20px;font-weight: 700; }
+.sesera-text p{color:#5b5a5a;font-size: 18px;font-weight: 700;padding-bottom: 60px;}
+/* London */
+.london-box{padding-top: 100px;}
+.london-image-2{transform: translate(0px, -63px);padding-left: 110px;}
+.london-image-nolan{margin-top: 26px;}
+.london-text a:hover, .london-text a:focus{color: #b29c69;} 
+.london-box hr{color: #423e3e;border: none;}
