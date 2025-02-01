@@ -37,6 +37,7 @@ text-transform: uppercase;padding-right: 100px;padding-left: 80px;padding-top: 5
 .london-image-nolan{margin-top: 26px;}
 .london-text a:hover, .london-text a:focus{color: #b29c69;} 
 .london-box hr{color: #423e3e;border: none;}
+/* Tour-dates */
 .tour-dates h3{  font-family: "Dorsa", serif;font-size: 100px;text-align: center;padding-top: 50px;color: #b29c69;color: #6c6c6c;padding-bottom: 40px;}
 .tour-dates h5{font-family: "PT Sans Narrow", serif;font-size: 70px;color: #b29c69;font-weight: 600;}
 .tour-dates sup{font-size: 18px;font-family: "PT Sans Narrow", serif;vertical-align: 30px;text-transform:uppercase ;}
@@ -50,4 +51,26 @@ text-transform: uppercase;padding-right: 100px;padding-left: 80px;padding-top: 5
  .logos i:hover, .logos i:focus{ background-color: #b29c69;color: #fff;}
  .jackson-text h5{font-size: 65px;font-family: "Dorsa", sans-serif;font-weight: normal;color: #3c3c3c;text-transform: uppercase;padding-top: 100px;}
 .jackson-text h6{margin-top: 0%;font-family: "PT Sans Narrow";font-size:20px;font-weight: normal;color: #3c3c3c;margin-bottom: 0px;}
-
+/* ......................About...................... */
+.header{display: block;padding-top: 40px;}
+.header img{padding-top: 20px;}
+.header h2{padding-top: 20px;text-align: center;font-family: "Dorsa", serif;font-size: 140px;}
+/* Our */
+.our h3{font-family: "Dorsa", serif;font-size: 100px;text-align: center;padding-top: 80px;color: #b29c69;color: #6c6c6c;padding-bottom: 40px;}
+.our h5{font-family: "PT Sans Narrow", serif;font-size: 70px;color: #b29c69;font-weight: 600;text-align: center;padding-left: 90px;}
+.our h6{font-family: "PT Sans Narrow", serif;font-size: 18px;font-weight: 600;margin-top: 30px;margin-bottom: 30px;margin-left: 100px;margin-right: 100px;}
+.our p{font-family: "PT Sans Narrow", serif;font-size: 18px;margin-left: 100px;margin-right: 100px;color: #3c3c3c;margin-bottom: 50px;}
+/* Top */
+.top{background-image:url(images/ore-top.jpg);background-repeat: no-repeat;padding-bottom: 100px;}
+.top h3{font-family: "Dorsa", sans-serif;color: #fff;font-size: 150px;font-weight: normal;text-align: center;padding-top: 280px;padding-bottom: 10px;padding-left: 380px;}
+/* Girl */
+.girl-image-text{position: absolute;bottom: 0px;}
+.girl-text{background-color: #000018;}
+.girl-text h4{font-family: "PT Sans Narrow", sans-serif;text-transform: uppercase;color: #fff;font-size: 33px;font-weight:normal;text-align: center;padding-bottom: 20px;margin-bottom: 0%;padding-top:20px ;}
+/* Awards */
+.awards-text p{font-family: "PT Sans Narrow", serif;font-size: 18px;margin-bottom: 50px;padding-left: 40px;text-transform: uppercase;line-height: 40px;margin-bottom: 20px;font-weight: 600;}
+.awards-text h3{text-align: left;font-family: "Dorsa", serif;margin-top: 60px;font-size: 100px;text-transform: uppercase;padding-left: 40px;}
+.awards-text a{color: #3c3c3c;line-height: 26px;font-family: "PT Sans Narrow", serif;font-size: 18px;text-decoration: underline;text-decoration-style: double;text-underline-offset: 20px;padding-left: 50px;}
+.awards-text a:hover, .awards-text a:focus{color: #b29c69;}
+.awards-image{margin-top: 50px;margin-bottom: 70px;}
+.nav-link{padding-bottom: 60px;}
