@@ -12,7 +12,7 @@
 .welcom a:hover, .welcom a:focus{color: #b29c69;}
 /* Blues */
 .blues{background-image: url(images/blues.jpg);background-repeat: no-repeat;background-size: cover;}
-.blues h1{text-align: right;font-family: "Dorsa", serif;color: #fff;font-size: 500px;text-transform: uppercase;padding-top: 80px;}
+.blues h1{text-align: right;font-family: "Dorsa", serif;color: #fff;font-size: 500px;text-transform: uppercase;padding-top: 50px;}
 .blues h5{text-align: right;color: #fff;font-size: 80px;font-family: "Dorsa", serif;text-transform: uppercase;margin-top: -126px;padding-right: 22px;}
 /* Listen */
 .listen{background-image:url(images/listen.jpg);background-repeat: no-repeat;padding-bottom: 100px;}
@@ -37,3 +37,17 @@ text-transform: uppercase;padding-right: 100px;padding-left: 80px;padding-top: 5
 .london-image-nolan{margin-top: 26px;}
 .london-text a:hover, .london-text a:focus{color: #b29c69;} 
 .london-box hr{color: #423e3e;border: none;}
+.tour-dates h3{  font-family: "Dorsa", serif;font-size: 100px;text-align: center;padding-top: 50px;color: #b29c69;color: #6c6c6c;padding-bottom: 40px;}
+.tour-dates h5{font-family: "PT Sans Narrow", serif;font-size: 70px;color: #b29c69;font-weight: 600;}
+.tour-dates sup{font-size: 18px;font-family: "PT Sans Narrow", serif;vertical-align: 30px;text-transform:uppercase ;}
+.tour-dates p{ font-family: "PT Sans Narrow", serif;color: #6c6c6c;}
+ /* Footer */
+ .footer{background-color:#f8f8f8;background-image:url(images/footer.jpg);background-repeat: no-repeat;background-position:center bottom;margin-top: 50px;}
+ .follow-us-text{text-transform: uppercase} 
+ .follow-us-text h6{font-size:  72px;font-weight: normal;font-family: "Dorsa", sans-serif;color: #3c3c3c;text-align: left;margin-top: 106px;line-height: 72px;margin-bottom: 20px;}
+ .logos{text-align: center;padding: 120px 47px;}
+ .logos i{border: 1px solid #d5d5d5;border-radius: 50%;margin-top:5px;line-height: 70px;color: #000018;width: 70px;height: 70px;}
+ .logos i:hover, .logos i:focus{ background-color: #b29c69;color: #fff;}
+ .jackson-text h5{font-size: 65px;font-family: "Dorsa", sans-serif;font-weight: normal;color: #3c3c3c;text-transform: uppercase;padding-top: 100px;}
+.jackson-text h6{margin-top: 0%;font-family: "PT Sans Narrow";font-size:20px;font-weight: normal;color: #3c3c3c;margin-bottom: 0px;}
+
