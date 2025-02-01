@@ -1,0 +1,7 @@
+.welcom{background-color: #f8f8f8;overflow: hidden;}
+.welcom h3{text-align: left;font-family: "Dorsa", serif;margin-top: 60px;font-size: 100px;margin-bottom: 30px;}
+.welcom h5{font-family: "PT Sans Narrow", serif;font-size: 18px;text-transform: uppercase;font-weight: 600;margin-bottom: 20px;}
+.welcom p{font-family: "PT Sans Narrow", serif;font-size: 18px;}
+.welcom .col-mg-8{padding-left: 60px;padding-right: 60px;}
+/* Blues */
+.blues{background-image: url(images/blues.jpg);background-repeat: no-repeat;background-size: cover;}
