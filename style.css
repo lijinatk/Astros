@@ -1,15 +1,15 @@
 .header{background-image: url(images/left-line.png),url(images/right-line.png);background-position:top left,bottom right;background-repeat: no-repeat;padding-top: 100px;}
-.bb-nav{padding-top: 40px;}
-.nav-link{font-family: "Dorsa", serif;font-size: 70px;color: #3c3c3c;padding: 25px 25px;position: sticky;z-index: 10;}
+.bb-nav{margin: 40px 0;text-align: center;position: sticky;top: 0;background-color:#fff;z-index: 10;}
+.bb-nav a{padding: 0px 30px;color: #3c3c3c;font-family: "Dorsa", sans-serif;font-size: 70px;}
 .nav-item a:hover, .nav-item a:focus{color: #b29c69;}
 /*Welcom */
-.welcom{background-color: #f8f8f8;overflow: hidden;}
-.welcom h3, .london-text h3{text-align: left;font-family: "Dorsa", serif;margin-top: 60px;font-size: 100px;margin-bottom: 30px;text-transform: uppercase;padding-left: 40px;}
-.welcom h5, .london-text h5{font-family: "PT Sans Narrow", serif;font-size: 18px;text-transform: uppercase;font-weight: 600;margin-bottom: 20px;padding-left: 40px;}
-.welcom p, .london-text p{font-family: "PT Sans Narrow", serif;font-size: 18px;margin-bottom: 50px;padding-left: 40px;}
-.welcom .col-mg-8{padding-left: 60px;padding-right: 60px;}
-.welcom a, .london-text a{color: #3c3c3c;line-height: 26px;font-family: "PT Sans Narrow", serif;font-size: 18px;text-decoration: underline;text-decoration-style: double;text-underline-offset: 20px;padding-left: 50px;}
-.welcom a:hover, .welcom a:focus{color: #b29c69;}
+.welcome{background-color: #f8f8f8;overflow: hidden;}
+.welcome h3, .london-text h3{text-align: left;font-family: "Dorsa", serif;margin-top: 60px;font-size: 100px;margin-bottom: 30px;text-transform: uppercase;padding-left: 40px;}
+.welcome h5, .london-text h5{font-family: "PT Sans Narrow", serif;font-size: 18px;text-transform: uppercase;font-weight: 600;margin-bottom: 20px;padding-left: 40px;}
+.welcome p, .london-text p{font-family: "PT Sans Narrow", serif;font-size: 18px;margin-bottom: 50px;padding-left: 40px;}
+.welcome .col-mg-8{padding-left: 60px;padding-right: 60px;}
+.welcome a, .london-text a{color: #3c3c3c;line-height: 26px;font-family: "PT Sans Narrow", serif;font-size: 18px;text-decoration: underline;text-decoration-style: double;text-underline-offset: 20px;padding-left: 50px;}
+.welcome a:hover, .welcom a:focus{color: #b29c69;}
 /* Blues */
 .blues{background-image: url(images/blues.jpg);background-repeat: no-repeat;background-size: cover;}
 .blues h1{text-align: right;font-family: "Dorsa", serif;color: #fff;font-size: 500px;text-transform: uppercase;padding-top: 50px;}
@@ -66,7 +66,7 @@ text-transform: uppercase;padding-right: 100px;padding-left: 80px;padding-top: 5
 /* Girl */
 .girl-image-text{position: absolute;bottom: 0px;}
 .girl-text{background-color: #000018;}
-.girl-text h4{font-family: "PT Sans Narrow", sans-serif;text-transform: uppercase;color: #fff;font-size: 33px;font-weight:normal;text-align: center;padding-bottom: 20px;margin-bottom: 0%;padding-top:20px ;}
+.girl-text h4{font-family: "PT Sans Narrow", sans-serif;text-transform: uppercase;color: #fff;font-size: 33px;font-weight:normal;text-align: center;padding-bottom: 20px;margin-bottom: 0%;padding-top:20px;}
 /* Awards */
 .awards-text p{font-family: "PT Sans Narrow", serif;font-size: 18px;margin-bottom: 50px;padding-left: 40px;text-transform: uppercase;line-height: 40px;margin-bottom: 20px;font-weight: 600;}
 .awards-text h3{text-align: left;font-family: "Dorsa", serif;margin-top: 60px;font-size: 100px;text-transform: uppercase;padding-left: 40px;}
@@ -74,3 +74,50 @@ text-transform: uppercase;padding-right: 100px;padding-left: 80px;padding-top: 5
 .awards-text a:hover, .awards-text a:focus{color: #b29c69;}
 .awards-image{margin-top: 50px;margin-bottom: 70px;}
 .nav-link{padding-bottom: 60px;}
+/* ...............................Discography............................... */
+.discography{background-image: url(images/left-line.png),url(images/right-line.png);background-repeat: no-repeat;background-position: left top, right bottom;padding-top: 160px;}
+.discography h3{text-align: left;font-family: "Dorsa", serif;font-size: 140px;}
+.discography img{padding-left: 350px;}
+/* Popular */
+.popular{background-image:url(images/popular.jpg);background-repeat: no-repeat;padding-bottom: 100px;}
+.popular h3{font-family: "Dorsa", sans-serif;color: #fff;font-size: 150px;font-weight: normal;text-align: left;padding-top: 80px;}
+.popular h5{color: #fff;text-transform: uppercase;font-family: "PT Sans Narrow", serif;font-size: 25px;margin-bottom: 20px;font-weight: 600;}
+.popular h6{color: #fff;text-transform: uppercase;font-family: "PT Sans Narrow", serif;font-size: 18px;}
+.popular ul{font-family: "PT Sans Narrow", sans-serif;font-size: 18px;text-align:left;margin-bottom: 0;padding-top: 30px;}
+.popular li{list-style-type: none;}
+.popular a{color:#fff;text-decoration: none;line-height: 50px;}
+.mp3-box a:hover,.mp3-box a:focus{color:#b29c69;}
+/* Coming */
+.coming-box{padding-top: 100px;}
+.coming-image{padding-right: 60px;}
+.coming-image-2{transform: translate(0px, -63px);}
+.coming-soon-image{margin-top: 26px;}
+.coming-text a:hover, .coming-text a:focus{color: #b29c69;} 
+.coming-box hr{color: #423e3e;border: none;}
+.coming-text h3{text-align: left;font-family: "Dorsa", serif;margin-top: 20px;font-size: 100px;margin-bottom: 30px;text-transform: uppercase;}
+.coming-text h5{font-family: "PT Sans Narrow", serif;font-size: 18px;text-transform: uppercase;font-weight: 600;margin-bottom: 20px;}
+.coming-text p{font-family: "PT Sans Narrow", serif;font-size: 18px;margin-bottom: 50px;}
+.coming-text a{color: #3c3c3c;line-height: 26px;font-family: "PT Sans Narrow", serif;font-size: 18px;text-decoration: underline;text-decoration-style: double;text-underline-offset: 20px;}
+/* ..............................Tours..............................  */
+.schedule {background-color: #f8f8f8;overflow: hidden;}
+.schedule  h3{text-align: left;font-family: "Dorsa", serif;margin-top: 60px;font-size: 100px;margin-bottom: 20px;text-transform: uppercase;padding-left: 40px;margin-top: 15px;}
+.schedule h5{font-family: "PT Sans Narrow", serif;font-size: 18px;text-transform: uppercase;padding-left: 40px;color: #000;}
+.schedule  p{font-family: "PT Sans Narrow", serif;font-size: 18px;margin-bottom: 20px;padding-left: 40px;color: #646363;}
+.schedule  .col-mg-8{padding-left: 60px;padding-right: 60px;}
+.schedule  a{color: #3c3c3c;line-height: 26px;font-family: "PT Sans Narrow", serif;font-size: 18px;text-decoration: underline;text-decoration-style: double;text-underline-offset: 20px;padding-left: 50px;}
+.schedule  a:hover, .schedule  a:focus{color: #b29c69;}
+/* The new album */
+.new-album{background-image: url(images/new-album.jpg);background-repeat: no-repeat;background-size: cover;}
+.new-album h1{font-family: "Dorsa", serif;color: #fff;font-size: 500px;text-transform: uppercase;padding-top: 50px;}
+.new-album h5{color: #fff;font-size: 80px;font-family: "Dorsa", serif;text-transform: uppercase;margin-top: -126px;padding-right: 22px;}
+.new-album h1{font-family:"Dorsa", serif; font-size: 500px;color: #ffffff;font-weight: 600;font-weight: normal;}
+.new-album sup{font-size: 200px;font-family: "Dorsa", serif;vertical-align: 200px;text-transform:uppercase ;color: #fff;font-weight: normal;}
+/* Current */
+.Current-box{padding-top: 70px;}
+.Current-image{padding-right: 60px;}
+.Current-text a:hover, .Current-text a:focus{color: #b29c69;} 
+.Current-box hr{color: #423e3e;border: none;}
+.Current-text h3{text-align: left;font-family: "Dorsa", serif;margin-top: 10px;font-size: 100px;margin-bottom: 10px;text-transform: uppercase;}
+.Current-text h5{font-family: "PT Sans Narrow", serif;font-size: 18px;text-transform: uppercase;font-weight: 600;margin-bottom: 20px;padding-right: 50px;}
+.Current-text p{font-family: "PT Sans Narrow", serif;font-size: 18px;margin-bottom: 50px;padding-right: 50px;}
+.Current-text a{color: #3c3c3c;line-height: 26px;font-family: "PT Sans Narrow", serif;font-size: 18px;text-decoration: underline;text-decoration-style: double;text-underline-offset: 20px;}
