@@ -1,5 +1,4 @@
-# [Project Name] 🎯
-Blues Band
+# Blues Band 🎯
 
 ## Basic Details
 ### Team Name: Astros
