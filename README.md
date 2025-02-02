@@ -54,7 +54,7 @@ https://github.com/lijinatk/Astros/blob/7cfedac4e5ab44adcf5e9b8c32b78b510dfbf9fe
 
 
 ## Team Contributions
-- Anusree: index and animation
+- Anusree: index,discography and animation
 - Lijina: About,tour and animation
 
 
