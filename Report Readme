@@ -1,0 +1,57 @@
+# [Project Name] 🎯
+Blues Band
+
+## Basic Details
+### Team Name: [Astros]
+
+
+### Team Members
+- Member 1: [lijina tk] - [MCAS Vengara]
+- Member 2: [Anusree ck] - [MCAS Vengara]
+
+### Hosted Project Link
+[mention your project hosted project link here]
+
+### Project Description
+ 
+
+Bands typically consist of multiple members, each specializing in different instruments or roles, such as vocals, guitar, bass, drums, keyboard, or even electronic elements.
+
+
+### The Problem statement
+The lack of an integrated platform to handle these aspects can result in missed opportunities, disorganization, and inefficient communication both internally within the band and externally with their fanbase.
+
+
+### The Solution
+A musical band is a group of musicians who come together to create, perform, and record music as a collective unit.
+
+## Technical Details
+### Technologies/Components Used
+For Software:
+html 5,css 3,javascript
+
+### Implementation
+For Software:
+# Installation
+```
+git clone https://github.com/lijinatk/Astros/
+```
+
+# Run
+Open index.html inside the folder Astros using desired browser
+
+### Project Documentation
+For Software:
+
+# Screenshots (Add at least 3)
+
+
+### Project Demo
+
+## Team Contributions
+- [Name 1]: [Specific contributions]
+- [Name 2]: [Specific contributions]
+- [Name 3]: [Specific contributions]
+
+---
+Made with ❤️ at TinkerHub
