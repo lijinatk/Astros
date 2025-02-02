@@ -9,16 +9,16 @@
 - Member 2: Anusree ck - MCAS Vengara
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://lijinatk.github.io/Astros/
 
 ### Project Description
-[2-3 lines about what your project does]
+Bands typically consist of multiple members, each specializing in different instruments or roles, such as vocals, guitar, bass, drums, keyboard, or even electronic elements. The dynamic between band members can shape the unique sound, style, and identity of the band.
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+A musical band is a group of musicians who come together to create, perform, and record music as a collective unit.
 
 ## Technical Details
 ### Technologies/Components Used
